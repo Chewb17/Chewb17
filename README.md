@@ -1,5 +1,6 @@
 # 💫 About Me:
-UFJF
+
+Universidade Federal de Juiz de Fora
 
 
 ## 🌐 Socials:
